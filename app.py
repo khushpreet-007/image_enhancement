@@ -6,7 +6,9 @@ from PIL import Image, ImageCms
 # import plotly.figure_factory as ff
 
 st.title('Retina Image Enhancement')
-uploaded_image = st.file_uploader("Choose an Image ...", type="png")
+uploaded_image = st.file_uploader("Choose an Image ...", type="jpg")
+
+
 
 def display_img(img, cap):
     st.image(img,caption=cap)
