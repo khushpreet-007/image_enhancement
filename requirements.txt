@@ -3,4 +3,4 @@ mclahe @ https://github.com/VincentStimper/mclahe/archive/numpy.zip
 pandas==1.5.2
 numpy==1.23.2
 opencv-python==4.7.0.68
-opencv-python-headless
+
