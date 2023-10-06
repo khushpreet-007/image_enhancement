@@ -1,11 +1,11 @@
 # image_enhancement
-CLAHE stands for Contrast-limited adaptive histogram equalization
-Steps: 
-1: Divide image into tiny region
-2: Decide mapping function for local histogram
-3: Choose clipping pount of histogram
-4: Apply funtion to every region 
-5: Reduce noise
+**CLAHE** stands for Contrast-limited adaptive histogram equalization<br>
+Steps: <br>
+1: Divide image into tiny region<br>
+2: Decide mapping function for local histogram<br>
+3: Choose clipping pount of histogram<br>
+4: Apply funtion to every region <br>
+5: Reduce noise<br>
 
 Image 1<br>
 **Input Image**:<br>
