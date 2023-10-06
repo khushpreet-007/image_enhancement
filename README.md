@@ -8,7 +8,7 @@ Steps:
 5: Reduce noise
 
 Image 1
-Input image:
+**Input image**:
 ![image](https://github.com/khushpreet-007/image_enhancement/assets/75271300/8ba2422c-62ad-4a2e-b9b1-8b75da06946b)
 
 Output Image
